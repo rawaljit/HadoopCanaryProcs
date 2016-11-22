@@ -50,6 +50,7 @@ public class HiveServer2Check {
 			e.printStackTrace();
 			System.exit(1);
 		}
+		//Exit with success code.
 		System.exit(0);
 	}
 }
